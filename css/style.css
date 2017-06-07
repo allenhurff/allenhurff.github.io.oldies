@@ -1,17 +1,25 @@
 h1 {
-  font-family: 'Oswald', cursive;
+  color: lightgoldenrodyellow;
+  font-family: 'Oswald';
+}
+
+h4 {
+  color: lightgoldenrodyellow;
+  font-family: 'Oswald';
 }
 
 .quote-box {
     min-height: 100px;
     min-width: 600px;
-    background-color: #dfdbe5;
+    background-color: #C6540D;
     margin: 10px 5%;
-    text-color: black;
+    text-color: tan;
+    color: tan;
     text-align: center;
     font-family: 'Open Sans', monospace;
     padding: 10px;
     font-size: 2.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 }
 
 
@@ -19,6 +27,10 @@ h1 {
     background-color: ;
 }
 body {
-    background-color: #DFDBE5;
+    background-color: #C6540D;
 background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.footer {
+  color: tan;
 }
